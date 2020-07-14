@@ -1,0 +1,6 @@
+{
+    "python.pythonPath": "E:\\anaconda\\envs\\OpenCV-pip\\python.exe",
+    "python.linting.pylintArgs": [
+        "--extension-pkg-whitelist=cv2"
+    ]
+}
